@@ -1,3 +1,14 @@
+# Comandos para correr la aplicación
+
+Para correr la aplicación ejecute los siguientes comandos.
+
+```CMD
+
+pnpm install
+pnpm run dev
+
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
